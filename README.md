@@ -2,7 +2,7 @@
   <h1>📈 Klinko Market Opportunity Analyst</h1>
   <p><strong>Rank market opportunities and decide what deserves validation first.</strong></p>
   <p>
-    <a href="https://github.com/klinkoai/ai-market-research-skills">🧭 Explore all Klinko Skills</a> ·
+    <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
     <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
@@ -10,9 +10,9 @@
 
 ## What is Klinko Market Opportunity Analyst?
 
-Klinko Market Opportunity Analyst is an AI agent Skill for turning scattered market possibilities into a structured opportunity assessment. It helps teams compare audience demand, problem relevance, strategic fit, market gaps, and practical constraints, then produces a prioritized view of where further research, product discovery, or commercial validation should begin.
+Klinko Market Opportunity Analyst is an AI market research skill for turning scattered market possibilities into a structured opportunity assessment. It helps teams compare audience demand, problem relevance, strategic fit, market gaps, and practical constraints, then produces a prioritized view of where further research, product discovery, or commercial validation should begin.
 
-## What this AI agent Skill helps you do
+## What this skill helps you do
 
 - Translate broad ideas into comparable market opportunities
 - Assess demand, fit, gaps, and execution considerations
@@ -35,7 +35,7 @@ Klinko Market Opportunity Analyst is an AI agent Skill for turning scattered mar
 | Risks and assumptions | Know what still needs evidence |
 | Validation recommendation | Decide the next research or experiment |
 
-## Example workflow
+## Example research process
 
 1. Describe the product, idea, audience, or market you want to understand.
 2. Add relevant public context such as geography, category, goals, or constraints.
@@ -53,7 +53,7 @@ Klinko Market Opportunity Analyst is an AI agent Skill for turning scattered mar
 - Key risks, constraints, and unanswered questions
 - A recommended validation sequence
 
-## Who this Skill is for
+## Who this skill is for
 
 - Founders
 - Strategy teams
@@ -65,13 +65,13 @@ Klinko Market Opportunity Analyst is an AI agent Skill for turning scattered mar
 - [Codex](https://openai.com/codex/)
 - [Claude Code](https://www.anthropic.com/claude-code)
 
-The installable Skill package and shared Klinko API integration are in development. This repository is the canonical public page for the Market Opportunity Analyst workflow and will contain installation instructions when access opens.
+The workflow is complete and included in the single installable [Klinko Market Research Skill](https://github.com/klinkoai/ai-market-research-skills). This repository remains the canonical public documentation page for the Market Opportunity Analyst workflow.
 
 ## Klinko access
 
-This Skill will use the shared Klinko public API and return decision-ready results in an agent-friendly format. One Klinko API key will work across the complete Skill collection.
+This skill uses the authenticated Klinko MCP runtime and returns decision-ready results in an agent-friendly format. Each user connects with their own Klinko API key; rotating it revokes the old key in both validated clients.
 
-## Related Klinko Skills
+## Related Klinko skills
 
 - [Startup Idea Validator](https://github.com/klinkoai/klinko-startup-idea-validator)
 - [Niche Audience Discovery](https://github.com/klinkoai/klinko-niche-audience-discovery)
@@ -79,8 +79,8 @@ This Skill will use the shared Klinko public API and return decision-ready resul
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills catalog](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 3, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 7, 2026
