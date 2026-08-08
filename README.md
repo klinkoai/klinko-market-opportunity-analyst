@@ -3,7 +3,7 @@
   <p><strong>Rank market opportunities and decide what deserves validation first.</strong></p>
   <p>
     <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
-    <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
+    <a href="https://klinko.ai/en/skills/market-opportunity-analyst/">🌐 Market Opportunity Analyst guide</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
 </div>
@@ -72,7 +72,7 @@ The output is a ranked opportunity portfolio and a validation sequence. It is de
 
 TAM analysis estimates the size of a defined market under explicit assumptions. Market Opportunity Analyst answers a different question: which direction currently deserves validation first? It can organize sizing evidence and useful proxies, but it does not manufacture a defensible market-size number from public conversation volume.
 
-Audience Comparator ranks named audiences for an offer. Startup Idea Validator tests the assumptions behind one concept. Market Opportunity Analyst can compare broader directions where the audience, problem, gap, and product approach all differ.
+Audience Finder ranks candidate audience segments. Customer Pain Point Analyst determines which recurring problems create meaningful demand. Startup Idea Validator tests the assumptions behind one concept. Market Opportunity Analyst compares broader directions where the audience, problem, gap, and product approach can all differ.
 
 ## Evidence boundaries
 
@@ -117,8 +117,8 @@ This skill uses the authenticated Klinko MCP runtime and returns decision-ready 
 ## Related Klinko skills
 
 - [Startup Idea Validator](https://github.com/klinkoai/klinko-startup-idea-validator)
-- [Niche Audience Discovery](https://github.com/klinkoai/klinko-niche-audience-discovery)
-- [Audience Comparator](https://github.com/klinkoai/klinko-audience-comparator)
+- [Audience Finder](https://github.com/klinkoai/klinko-audience-finder)
+- [Customer Pain Point Analyst](https://github.com/klinkoai/klinko-customer-pain-point-analyst)
 
 ## Research and editorial standard
 
@@ -126,8 +126,8 @@ This documentation is maintained by [Klinko Research](https://klinko.ai/en/about
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an Audience Decision Engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the [Market Opportunity Analyst product guide](https://klinko.ai/en/skills/market-opportunity-analyst/) or the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 7, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 8, 2026
