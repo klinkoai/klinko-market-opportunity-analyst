@@ -8,9 +8,17 @@
   </p>
 </div>
 
-## What is Klinko Market Opportunity Analyst?
-
-Klinko Market Opportunity Analyst is an AI market research skill for turning scattered market possibilities into a structured opportunity assessment. It helps teams compare audience demand, problem relevance, strategic fit, market gaps, and practical constraints, then produces a prioritized view of where further research, product discovery, or commercial validation should begin.
+<table>
+<tr>
+<td width="56%" valign="top">
+<h2>What is Klinko Market Opportunity Analyst?</h2>
+<p>Klinko Market Opportunity Analyst is an AI market research skill for turning scattered market possibilities into a structured opportunity assessment. It helps teams compare audience demand, problem relevance, strategic fit, market gaps, and practical constraints, then produces a prioritized view of where further research, product discovery, or commercial validation should begin.</p>
+</td>
+<td width="44%" valign="top">
+<a href="https://klinko.ai/en/skills/market-opportunity-analyst/"><img src="https://raw.githubusercontent.com/klinkoai/ai-market-research-skills/main/assets/skills/market-opportunity-analyst.webp" alt="Klinko Market Opportunity Analyst market opportunity analysis and validation visual"></a>
+</td>
+</tr>
+</table>
 
 ## What this skill helps you do
 
@@ -110,6 +118,16 @@ A useful test creates observable evidence: recruitment response from a defined a
 
 This Skill is complete and available through the [Klinko AI Market Research Skills repository](https://github.com/klinkoai/ai-market-research-skills). This repository is the public documentation page for Market Opportunity Analyst.
 
+## Install Klinko Skills
+
+Copy this prompt into Codex or Claude Code:
+
+```text
+Install Klinko AI Market Research Skills from https://github.com/klinkoai/ai-market-research-skills for this client. Read the repository instructions before changing anything, preserve my existing Skills and MCP configuration, and connect the authenticated Klinko MCP server at user level with my own API key. Never ask me to paste the key into chat, never print it, and never write it into a project or Git repository. Verify match_submit, match_get, circle_knowledge, and persona_knowledge, then report what was configured and which market research skills are available.
+```
+
+The installable package, client setup, and secure API key instructions live in the [main Klinko Skill repository](https://github.com/klinkoai/ai-market-research-skills).
+
 ## Klinko access
 
 This skill uses the authenticated Klinko MCP runtime and returns decision-ready results in an agent-friendly format. Each user connects with their own Klinko API key; rotating it revokes the old key in both validated clients.
@@ -126,8 +144,8 @@ This documentation is maintained by [Klinko Research](https://klinko.ai/en/about
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an Audience Decision Engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the [Market Opportunity Analyst product guide](https://klinko.ai/en/skills/market-opportunity-analyst/) or the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an AI market research tool and Audience Decision Engine for target audience analysis, customer research, market opportunity discovery, validation, positioning, and content strategy. Explore the [Market Opportunity Analyst product guide](https://klinko.ai/en/skills/market-opportunity-analyst/) or the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 8, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 9, 2026
